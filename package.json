@@ -21,6 +21,7 @@
     "packages/*"
   ],
   "dependencies": {
+    "recoil": "^0.7.7",
     "tailwindcss": "^3.4.17"
   }
 }
